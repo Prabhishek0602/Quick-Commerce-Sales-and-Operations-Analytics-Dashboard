@@ -61,7 +61,7 @@ Working on this project helped me strengthen both my **technical** and **analyti
 
 Here are the finalized pages of the dashboard:
 
-![Dashboard Preview](dashboard_images/blinkit_dashboard.jpg)
+![Dashboard Preview](dashboard_images/blinkit_dashboard.png)
  
 ---
 
