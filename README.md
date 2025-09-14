@@ -1,4 +1,4 @@
-# Quick-Commerce-Sales-and-Operations-Analytics-Dashboard 📊  
+# Quick-Commerce-Sales-and-Operations-Analytics-Dashboard 
 
 I created this project to analyze **Blinkit’s sales and operations data** using **Power BI**.  
 My aim was simple: take raw sales data, clean it, transform it, and turn it into a dashboard that gives **clear, actionable insights** for decision-making.  
