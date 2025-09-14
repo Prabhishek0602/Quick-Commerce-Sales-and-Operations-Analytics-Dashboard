@@ -82,7 +82,7 @@ Here are the finalized pages of the dashboard:
 
 ---
 
-## 🚀 Conclusion  
+## Conclusion  
 
 This dashboard gives a **360° view of Blinkit’s sales and operations**.  
 By pulling everything into one place, it helps managers track performance, compare outlets, and make **smarter, data-driven decisions**.  
